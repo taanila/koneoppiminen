@@ -1,4 +1,4 @@
-# Koneoppiminen
+# Koneoppiminen - lineaarinen regressio, satunnaismetsä, gradienttitehostus
 
 *Voit ladata esimerkit omalle koneelle: Napsauta **Code** (vihreä pudotusvalikko-painike) ja valitse **Download ZIP**. Pura ZIP-paketti itsellesi sopivaan hakemistoon.*
 
